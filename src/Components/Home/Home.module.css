@@ -1,0 +1,23 @@
+/* Applies to Mobile */
+
+.logo_header {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 25px;
+}
+
+.logo_header_span {
+    background-color: black;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.img_logo {
+    height: 125px;
+}
+
+/* Media Query for Desktop */
+@media screen and (min-width: 800px) {
+    
+}
